@@ -20,5 +20,5 @@ class Genre < ActiveRecord::Base
     end
     artist.names
   end
-  
+
 end
